@@ -52,17 +52,9 @@ Key outcomes:
 - **Decision support**: Macro + micro perspectives.  
 
 ---
-
-## 6. Dashboard Preview
-![Job Pulse Dashboard](images/demo.png)
-
----
-
-## 7. Tools & Skills
+## 6. Tools & Skills
 - **Power BI** (DAX, Power Query)  
 - Data Cleaning & Wrangling  
 - Data Visualization & Dashboarding  
 - Business Intelligence (BI) Best Practices  
-
----
 
