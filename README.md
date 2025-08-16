@@ -1,6 +1,5 @@
 # WUZZUF-JobPulse-Dashboard
 Power BI project analyzing WUZZUF job postings to extract insights on skills demand, career levels, work modes, and salary trends.
-(WUZZUF-JobPulse-Dashboard/demo.PNG)
 ---
 ## 1. Executive Summary
 This project analyzes job-posting data from **WUZZUF** and transforms it into actionable insights using **Power BI (DAX, Power Query)**.  
